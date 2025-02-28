@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 String apiKey = "RU428EXTN9L4ZZ85";
 const char *ssid = "OnePlus 9RT";
-const char *pass = "7702882341";
+const char *pass = "11110000";
 const char* server = "api.thingspeak.com";
 #define IRpin D3 
 WiFiClient client;
